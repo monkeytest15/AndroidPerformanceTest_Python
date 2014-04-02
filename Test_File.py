@@ -2,11 +2,13 @@
 
 import os, re,sys
 import subprocess
-import time, os, sched,shlex
+import time, os, sched,shlex,threading
 from reportlab.graphics.shapes import *
 from reportlab.graphics.charts.lineplots import LinePlot
 from reportlab.graphics.charts.textlabels import Label
 from reportlab.graphics import renderPDF
+
+
 
 # execute command, and return the output
 def execCmd(cmd):
@@ -37,11 +39,12 @@ def getAppPID(packagename):
 			logcat = popen.stdout.readline()
 			if packagename in logcat:
 				Status=False
-				print logcat.split(' ')[2]
-				return logcat.split(' ')[2]
+				for pid in logcat.split(' '):
+					if pid.isalnum():
+						print pid
+						return pid
 	except KeyboardInterrupt:
-		return  logcat.split(' ')[2]
-
+		return pid
 
 def getGCfile():
 	os.system("adb kill-server")
@@ -108,12 +111,18 @@ def analysisGCFile(AppPID):
 	average_GC_time = '%.2f'%float(GC_time_all/GC_count)
 	print GC_Freed_list,average_GC_Freed,GC_count_list,GC_per_list,average_GC_per,GC_time_list,average_GC_time
 	return GC_Freed_list,average_GC_Freed,GC_count_list,GC_per_list,average_GC_per,GC_time_list,average_GC_time
-#! /usr/bin/env python
-#coding=utf-8
-#这里需要引入三个模块
-    
-# 第一个参数确定任务的时间，返回从某个特定的时间到现在经历的秒数 
-# 第二个参数以某种人为的方式衡量时间 
+
+
+def WriteLog(waittime):
+	try:
+		subprocess.Popen("adb logcat -v time -v threadtime *:D | grep GC>GCFile.txt",shell=True)
+		print '日志正在记录中。。。请稍后'
+		time.sleep(float(waittime)*3600)
+	except KeyboardInterrupt:
+		print '报告正在生成'
+		os.system('adb kill-server')
+
+
 schedule = sched.scheduler(time.time, time.sleep) 
     
 def perform_command(cmd, inc): 
@@ -129,7 +138,7 @@ def timming_exe(cmd, inc = 60):
 
 if __name__=="__main__":
 	app_pid = getAppPID(sys.argv[1])
-	getGCfile()
+	WriteLog(sys.argv[2])
 	GC_Freed_list,average_GC_Freed,GC_count_list,GC_per_list,average_GC_per,GC_time_list,average_GC_time= analysisGCFile(app_pid)
 	MakePDF(GC_count_list,GC_Freed_list,'average GC Freed:'+str(average_GC_Freed)+'kb',"GC_Freed报告.pdf")
 	MakePDF(GC_count_list,GC_per_list,'average GC per:'+str(average_GC_per)+'%',"GC_百分比报告.pdf")
