@@ -87,7 +87,7 @@ def analysisGCFile(AppPID):
 	GC_count =0
 	for data in open('GCFile.txt'):
 		for i in data.split(' '):
-			if  AppPID == i:
+			if  AppPID == i and 'freed' in data:
 				GC_Freed = int(filter(str.isdigit,data.split(' ')[(data.split(' ').index('freed'))+1]))
 				GC_Freed_list.append(GC_Freed)
 				GC_Freed_All = GC_Freed_All+GC_Freed
@@ -112,10 +112,25 @@ def analysisGCFile(AppPID):
 	print GC_Freed_list,average_GC_Freed,GC_count_list,GC_per_list,average_GC_per,GC_time_list,average_GC_time
 	return GC_Freed_list,average_GC_Freed,GC_count_list,GC_per_list,average_GC_per,GC_time_list,average_GC_time
 
+def analysisTrafficFile(packagename):
+	TrafficDataList=[]
+	TrafficDataList2=[]
+	TrafficCount =0
+	TrafficCountList =[]
+	for data in open('NetWorkFile.txt'):
+		if packagename in data:
+			TrafficDataList.append(int(data.split(' ')[len(data.split(' '))-1]))
+			TrafficCount =TrafficCount+1
+			TrafficCountList.append(TrafficCount)
+	for i in TrafficDataList:
+		TrafficDataList2.append(float(i-TrafficDataList[0])/1024)
+	return TrafficCountList,TrafficDataList2
+
 
 def WriteLog(waittime):
 	try:
 		subprocess.Popen("adb logcat -v time -v threadtime *:D | grep GC>GCFile.txt",shell=True)
+		subprocess.Popen("adb logcat -v time *:E | grep Python2Android>NetWorkFile.txt",shell=True)
 		print '日志正在记录中。。。请稍后'
 		time.sleep(float(waittime)*3600)
 	except KeyboardInterrupt:
@@ -139,6 +154,9 @@ def timming_exe(cmd, inc = 60):
 if __name__=="__main__":
 	app_pid = getAppPID(sys.argv[1])
 	WriteLog(sys.argv[2])
+	TrafficCountList,TrafficDataList = analysisTrafficFile(sys.argv[1])
+	print TrafficCountList,TrafficDataList,'xxxx'
+	MakePDF(TrafficCountList,TrafficDataList,'average Traffic:'+'kb',"流量消耗.pdf")
 	GC_Freed_list,average_GC_Freed,GC_count_list,GC_per_list,average_GC_per,GC_time_list,average_GC_time= analysisGCFile(app_pid)
 	MakePDF(GC_count_list,GC_Freed_list,'average GC Freed:'+str(average_GC_Freed)+'kb',"GC_Freed报告.pdf")
 	MakePDF(GC_count_list,GC_per_list,'average GC per:'+str(average_GC_per)+'%',"GC_百分比报告.pdf")
