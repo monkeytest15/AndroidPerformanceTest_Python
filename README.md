@@ -7,9 +7,10 @@ AndroidPermanceTest_Python
 使用教程：
 > 1. git clone项目到本地
 > 2. 电脑链接机器，adb识别出来机器
-> 3. 打开终端，并且输入python Test_File.py <package name> <time(hour)>
-> 4. 然后就进行测试
-> 5. 测试结束之后，可以等设置的时间到了，也可以切换到终端，然后Ctrl+C，终止程序
+> 3. 安装listener.apk，并启动，隐藏到后台
+> 4. 打开终端，并且输入python Test_File.py <package name> <time(hour)>
+> 5. 然后就进行测试
+> 6. 测试结束之后，可以等设置的时间到了，也可以切换到终端，然后Ctrl+C，终止程序
 
 
-> 这样就会在目录下生成三个统计并分析的GC pdf图标报告，本周后续再加上流量和cpu两个。这样这个工具就可以对任何app应用做性能测试了。
+> 报告会在根目录下生成。注意：Android4.3以及以上机器流量无法获取暂时
