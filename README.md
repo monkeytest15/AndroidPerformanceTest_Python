@@ -8,7 +8,7 @@ AndroidPermanceTest_Python
 > 1. git clone项目到本地
 > 2. 电脑链接机器，adb识别出来机器
 > 3. 安装listener.apk，并启动，隐藏到后台
-> 4. 打开终端，并且输入python Test_File.py <package name> <time(hour)>
+> 4. 打开终端，并且输入python Test_File.py {package name} {time(hour)}
 > 5. 然后就进行测试
 > 6. 测试结束之后，可以等设置的时间到了，也可以切换到终端，然后Ctrl+C，终止程序
 
