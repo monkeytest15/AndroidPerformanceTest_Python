@@ -14,3 +14,19 @@ AndroidPermanceTest_Python
 
 
 > 报告会在根目录下生成。注意：Android4.3以及以上机器流量无法获取暂时
+
+AndroidPermanceTest_Python_V1.0
+
+> 1.增加了Monkey的通用脚本
+> python版本必须是2.x。然后执行的时候如下
+> Monkey Monkey_Script.py <参数1> <参数2> <参数3> <参数4>
+
+> 参数1:要执行的类型，有三种可以选择（分别是Normal，alltouch，other）
+> 参数2:要测试的应用的包名（com.xxx.xxx）
+> 参数3:要执行monkey的次数
+> 参数4:可以进行定时，单位是s
+
+> 生成的报告在脚本的同一个目录下，名字是MonkeyTest_Report+当前的时间.txt
+
+> 2.重构性能脚本
+> Command.py为主要获取数据脚本，执行之后再用Log_Analysis.py来做数据总体的分析，最终可以获取到所有我们想要的数据。未完待续
