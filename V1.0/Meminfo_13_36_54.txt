@@ -1,0 +1,5 @@
+Applications Memory Usage (kB):
+Uptime: 31430314 Realtime: 87192126
+
+** MEMINFO in pid 11798 [com.alipay.m.portal] **
+Got RemoteException!

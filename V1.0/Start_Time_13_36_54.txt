@@ -1,0 +1,486 @@
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_MUSIC]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_CALENDAR]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.CashierActivity (has extras)} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.android.chrome/com.google.android.apps.chrome.Main sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_BROWSER]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.CashierActivity (has extras)} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.android.chrome/com.google.android.apps.chrome.Main sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_BROWSER]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.android.contacts/.activities.PeopleActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_CONTACTS]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_CALENDAR]}} from pid 798 on display 0
+W/ActivityManager(  798): Duplicate finish request for ActivityRecord{8cc4f1a u0 com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity t25 f}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.account.ui.password.PasswordManagerActivity} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 5090 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_MUSIC]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderMemoActivity} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+W/ActivityManager(  798): Duplicate finish request for ActivityRecord{25e0f017 u0 com.alipay.m.portal/com.alipay.m.cashier.ui.OrderMemoActivity t25 f}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.account.ui.password.PasswordManagerActivity} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.android.settings/.DevelopmentSettings bnds=[24,-51][1056,141]} from pid -1 on display 0
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 5090 on display 0
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 5090 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.ASSIST flg=0x34000000 cmp=com.google.android.googlequicksearchbox/.SearchActivity (has extras)} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.sign.ui.activity.SignIndexActivity} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_MUSIC]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.sign.ui.activity.MonthlyLimitDetailActivity} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_CALENDAR]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.sign.ui.activity.AuditStatusActivity (has extras)} from pid 5090 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10800000 cmp=com.android.systemui/.recents.RecentsActivity (has extras)} from pid 884 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.android.settings/.UsbSettings bnds=[24,1080][1056,1272]} from pid -1 on display 0
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.settings.ui.SettingsActivity (has extras)} from pid 5090 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=android/com.android.internal.app.ResolverActivity sel={act=android.intent.action.MAIN cat=[android.intent.category.APP_EMAIL]}} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): Process com.alipay.m.portal (pid 5090) has died.
+W/ActivityManager(  798): Force removing ActivityRecord{1b9642a8 u0 com.alipay.m.portal/.ui.MainActivity t25}: app died, no saved state
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): Start proc com.alipay.m.portal for activity com.alipay.m.portal/.ui.SplashActivity: pid=11798 uid=10112 gids={50112, 1028, 1015, 3003}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.dialer/.extensions.GoogleDialtactsActivity (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.apis/.ApiDemos (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.android.setting/.ClientSettingActivity (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.samples.apps.cardboarddemo/com.google.research.airbender.paperscope.android.launcher.Launcher2D (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {flg=0x20000000 cmp=com.nd.assistance/.ui.AssistanceActivity bnds=[32,-51][1064,141]} from pid -1 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {flg=0x4040000 cmp=com.alipay.m.portal/.ui.MainActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {act=com.alipay.m.account.ui.login.LoginFragmentActivity cmp=com.alipay.m.portal/com.alipay.m.account.ui.login.LoginFragmentActivity (has extras)} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Start proc com.android.systemui:screenshot for service com.android.systemui/.screenshot.TakeScreenshotService: pid=12369 uid=10020 gids={50020, 1028, 1015, 1035, 3002, 3001}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.account.ui.guide.LoginGuideActivity} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {cat=[android.intent.category.DEFAULT] cmp=com.alipay.m.portal/com.alipay.m.account.ui.login.LoginFragmentActivity (has extras)} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity} from pid 6597 on display 0
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.CashierActivity (has extras)} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): Start proc com.google.android.configupdater for broadcast com.google.android.configupdater/.CertPin.CertPinUpdateRequestReceiver: pid=14898 uid=10035 gids={50035, 3003}
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{3bd008c9 u0 com.google.android.googlequicksearchbox/com.google.android.velvet.VelvetBackgroundTasksImpl$Service}
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{22aa9aef u0 com.android.providers.downloads/.DownloadService}
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.bill.ui.DetailActivity (has extras)} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.bill.ui.DetailActivity (has extras)} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.sign.ui.activity.SignIndexActivity} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{33c558bb u0 com.android.providers.downloads/.DownloadService}
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{1be6c597 u0 com.android.providers.downloads/.DownloadService}
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{fedf76d u0 com.android.providers.downloads/.DownloadService}
+I/ActivityManager(  798): Start proc com.google.android.apps.genie.geniewidget for broadcast com.google.android.apps.genie.geniewidget/.miniwidget.UpdateReceiver: pid=17587 uid=10042 gids={50042, 3003, 1028, 1015}
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{157f9d69 u0 com.google.android.apps.genie.geniewidget/.GenieRefreshService}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.damonfan.testandroidstudio/.MainActivity (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): Start proc com.damonfan.testandroidstudio for activity com.damonfan.testandroidstudio/.MainActivity: pid=17840 uid=10109 gids={50109}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.listener/.Monitor (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): Start proc com.example.listener for activity com.example.listener/.Monitor: pid=17945 uid=10078 gids={50078}
+I/ActivityManager(  798): Killing 10274:com.iUnity.angryBots/u0a77 (adj 14): cached #9
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): Activity pause timeout for ActivityRecord{1535e79d u0 com.example.listener/.Monitor t28}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity (has extras)} from pid 1147 on display 0
+W/ActivityManager(  798): Activity stop timeout for ActivityRecord{1535e79d u0 com.example.listener/.Monitor t28}
+W/ActivityManager(  798): Timeout executing service: ServiceRecord{2d8214a4 u0 com.example.listener/.NetWorkService}
+E/ActivityManager(  798): ANR in com.example.listener
+E/ActivityManager(  798): PID: 17945
+E/ActivityManager(  798): Reason: Executing service com.example.listener/.NetWorkService
+E/ActivityManager(  798): Load: 9.41 / 9.6 / 9.93
+E/ActivityManager(  798): CPU usage from 205ms to -5257ms ago:
+E/ActivityManager(  798):   55% 798/system_server: 26% user + 28% kernel / faults: 2445 minor
+E/ActivityManager(  798):   0% 31750/debuggerd: 0% user + 0% kernel / faults: 2174 minor
+E/ActivityManager(  798):   0.4% 1111/com.android.phone: 0.2% user + 0.1% kernel / faults: 413 minor
+E/ActivityManager(  798):   3.8% 2823/com.android.settings: 1.6% user + 2.2% kernel / faults: 361 minor
+E/ActivityManager(  798):   0.9% 1089/com.android.nfc: 0.5% user + 0.3% kernel / faults: 144 minor
+E/ActivityManager(  798):   1.8% 884/com.android.systemui: 1.1% user + 0.7% kernel / faults: 135 minor
+E/ActivityManager(  798):   1.6% 184/surfaceflinger: 0.7% user + 0.9% kernel
+E/ActivityManager(  798):   1.1% 175/logd: 1.1% user + 0% kernel / faults: 51 minor
+E/ActivityManager(  798):   0.7% 1370/mpdecision: 0% user + 0.7% kernel
+E/ActivityManager(  798):   0.3% 17945/com.example.listener: 0.1% user + 0.1% kernel / faults: 361 minor
+E/ActivityManager(  798):   0% 1071/com.redbend.vdmc: 0% user + 0% kernel / faults: 45 minor
+E/ActivityManager(  798):   0.3% 3/ksoftirqd/0: 0% user + 0.3% kernel
+E/ActivityManager(  798):   0% 1130/com.android.telecomm: 0% user + 0% kernel / faults: 33 minor
+E/ActivityManager(  798):   0% 7/kworker/u:0H: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 8/migration/0: 0% user + 0% kernel
+E/ActivityManager(  798):   0.1% 123/dhd_dpc: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 194/sensors.qcom: 0% user + 0.1% kernel / faults: 1 minor
+E/ActivityManager(  798):   0.1% 203/adbd: 0% user + 0.1% kernel / faults: 28 minor
+E/ActivityManager(  798):   0.1% 3097/com.alipay.android.setting: 0.1% user + 0% kernel / faults: 255 minor
+E/ActivityManager(  798):   0.1% 15385/kworker/u:7: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 17552/kworker/0:2: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0% 17712/logcat: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 29202/kworker/0:0H: 0% user + 0% kernel
+E/ActivityManager(  798):   0.1% 29514/kworker/0:2H: 0% user + 0.1% kernel
+E/ActivityManager(  798): 47% TOTAL: 21% user + 25% kernel
+E/ActivityManager(  798): CPU usage from 4492ms to 5011ms later with 99% awake:
+E/ActivityManager(  798):   10% 798/system_server: 7.1% user + 3.5% kernel / faults: 2 minor
+E/ActivityManager(  798):     8.9% 830/ActivityManager: 5.3% user + 3.5% kernel
+E/ActivityManager(  798):   1.3% 184/surfaceflinger: 0% user + 1.3% kernel
+E/ActivityManager(  798):     1.3% 390/Binder_2: 0% user + 1.3% kernel
+E/ActivityManager(  798):     1.3% 529/EventThread: 1.3% user + 0% kernel
+E/ActivityManager(  798):   1.5% 2823/com.android.settings: 0% user + 1.5% kernel
+E/ActivityManager(  798):     1.5% 2823/ndroid.settings: 1.5% user + 0% kernel
+E/ActivityManager(  798): 4.8% TOTAL: 0.9% user + 3.8% kernel
+I/ActivityManager(  798): Killing 17945:com.example.listener/u0a78 (adj 0): background ANR
+W/ActivityManager(  798): Scheduling restart of crashed service com.example.listener/.NetWorkService in 50568ms
+W/ActivityManager(  798): Force removing ActivityRecord{1535e79d u0 com.example.listener/.Monitor t28}: app died, no saved state
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 11798 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.CashierActivity (has extras)} from pid 11798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.cashier.ui.CashierActivity: +142ms
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{133b92f7 u0 com.google.android.apps.genie.geniewidget/.GenieRefreshService}
+I/ActivityManager(  798): Start proc com.example.listener for service com.example.listener/.NetWorkService: pid=18789 uid=10078 gids={50078}
+I/ActivityManager(  798): Killing 31857:com.android.packageinstaller/u0a59 (adj 15): empty for 1803s
+I/ActivityManager(  798): Killing 31966:com.android.keychain/1000 (adj 15): empty for 1804s
+I/ActivityManager(  798): Killing 31939:com.google.android.gms.wearable/u0a9 (adj 15): empty for 1804s
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): Timeout executing service: ServiceRecord{2d8214a4 u0 com.example.listener/.NetWorkService}
+E/ActivityManager(  798): ANR in com.example.listener
+E/ActivityManager(  798): PID: 18789
+E/ActivityManager(  798): Reason: Executing service com.example.listener/.NetWorkService
+E/ActivityManager(  798): Load: 8.74 / 9.06 / 9.62
+E/ActivityManager(  798): CPU usage from 5972ms to 0ms ago with 99% awake:
+E/ActivityManager(  798):   4.3% 184/surfaceflinger: 1.6% user + 2.6% kernel
+E/ActivityManager(  798):   3.8% 2823/com.android.settings: 2.3% user + 1.5% kernel
+E/ActivityManager(  798):   2.5% 798/system_server: 1.3% user + 1.1% kernel / faults: 13 minor
+E/ActivityManager(  798):   1.6% 1370/mpdecision: 0% user + 1.6% kernel
+E/ActivityManager(  798):   0.8% 3/ksoftirqd/0: 0% user + 0.8% kernel
+E/ActivityManager(  798):   0.6% 194/sensors.qcom: 0% user + 0.6% kernel / faults: 1 minor
+E/ActivityManager(  798):   0.5% 123/dhd_dpc: 0% user + 0.5% kernel
+E/ActivityManager(  798):   0.5% 175/logd: 0.5% user + 0% kernel / faults: 9 minor
+E/ActivityManager(  798):   0.5% 203/adbd: 0% user + 0.5% kernel / faults: 28 minor
+E/ActivityManager(  798):   0.3% 882/wpa_supplicant: 0% user + 0.3% kernel
+E/ActivityManager(  798):   0.3% 15385/kworker/u:7: 0% user + 0.3% kernel
+E/ActivityManager(  798):   0.3% 17552/kworker/0:2: 0% user + 0.3% kernel
+E/ActivityManager(  798):   0.3% 17790/kworker/u:1: 0% user + 0.3% kernel
+E/ActivityManager(  798):   0.1% 7/kworker/u:0H: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0% 177/lmkd: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 1046/com.google.android.gms: 0% user + 0% kernel
+E/ActivityManager(  798):   0.1% 11798/com.alipay.m.portal: 0.1% user + 0% kernel
+E/ActivityManager(  798):   0.1% 29202/kworker/0:0H: 0% user + 0.1% kernel
+E/ActivityManager(  798): 15% TOTAL: 6% user + 8.8% kernel + 0.1% iowait + 0.8% softirq
+E/ActivityManager(  798): CPU usage from 4136ms to 4656ms later with 99% awake:
+E/ActivityManager(  798):   8.9% 798/system_server: 5.3% user + 3.5% kernel
+E/ActivityManager(  798):     8.9% 830/ActivityManager: 5.3% user + 3.5% kernel
+E/ActivityManager(  798):     1.7% 834/android.ui: 1.7% user + 0% kernel
+E/ActivityManager(  798):   1.5% 2823/com.android.settings: 1.5% user + 0% kernel
+E/ActivityManager(  798):     1.5% 2823/ndroid.settings: 1.5% user + 0% kernel
+E/ActivityManager(  798):  +0% 19495/workqueue_trust: 0% user + 0% kernel
+E/ActivityManager(  798): 4.8% TOTAL: 3.8% user + 0.9% kernel
+I/ActivityManager(  798): Killing 18789:com.example.listener/u0a78 (adj 0): background ANR
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{3fe7cb1d u0 com.android.providers.downloads/.DownloadService}
+W/ActivityManager(  798): Scheduling restart of crashed service com.example.listener/.NetWorkService in 409800ms
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{b3afc19 u0 com.android.providers.downloads/.DownloadService}
+I/ActivityManager(  798): Killing 31986:com.android.documentsui/u0a37 (adj 15): empty for 1814s
+I/ActivityManager(  798): Killing 32029:com.google.android.apps.docs/u0a38 (adj 15): empty for 1814s
+I/ActivityManager(  798): Killing 30089:com.android.defcontainer/u0a6 (adj 9): empty for 1814s
+W/ActivityManager(  798): Scheduling restart of crashed service com.android.defcontainer/.DefaultContainerService in 1000ms
+I/ActivityManager(  798): Start proc com.android.defcontainer for service com.android.defcontainer/.DefaultContainerService: pid=19658 uid=10006 gids={50006, 1028, 1015, 1023, 2001, 1035}
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{1058b0ea u0 com.android.providers.downloads/.DownloadService}
+I/ActivityManager(  798): Start proc com.example.listener for service com.example.listener/.NetWorkService: pid=20150 uid=10078 gids={50078}
+W/ActivityManager(  798): Timeout executing service: ServiceRecord{2d8214a4 u0 com.example.listener/.NetWorkService}
+E/ActivityManager(  798): ANR in com.example.listener
+E/ActivityManager(  798): PID: 20150
+E/ActivityManager(  798): Reason: Executing service com.example.listener/.NetWorkService
+E/ActivityManager(  798): Load: 9.44 / 9.09 / 9.35
+E/ActivityManager(  798): CPU usage from 12885ms to 0ms ago:
+E/ActivityManager(  798):   4.4% 184/surfaceflinger: 2.3% user + 2.1% kernel
+E/ActivityManager(  798):   3.5% 2823/com.android.settings: 1.7% user + 1.8% kernel
+E/ActivityManager(  798):   1.7% 798/system_server: 0.6% user + 1% kernel / faults: 27 minor
+E/ActivityManager(  798):   1.1% 1370/mpdecision: 0.1% user + 1% kernel
+E/ActivityManager(  798):   0.8% 3/ksoftirqd/0: 0% user + 0.8% kernel
+E/ActivityManager(  798):   0.6% 194/sensors.qcom: 0.1% user + 0.4% kernel / faults: 1 minor
+E/ActivityManager(  798):   0.3% 203/adbd: 0% user + 0.2% kernel / faults: 56 minor
+E/ActivityManager(  798):   0.3% 884/com.android.systemui: 0% user + 0.2% kernel
+E/ActivityManager(  798):   0.3% 15385/kworker/u:7: 0% user + 0.3% kernel
+E/ActivityManager(  798):   0.2% 882/wpa_supplicant: 0% user + 0.2% kernel
+E/ActivityManager(  798):   0.2% 11798/com.alipay.m.portal: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 119/mmcqd/1: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 17552/kworker/0:2: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 17790/kworker/u:1: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0% 7/kworker/u:0H: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 123/dhd_dpc: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 175/logd: 0% user + 0% kernel / faults: 9 minor
+E/ActivityManager(  798):   0% 192/qmuxd: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 197/thermal-engine-hh: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 3097/com.alipay.android.setting: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 29514/kworker/0:2H: 0% user + 0% kernel
+E/ActivityManager(  798): 13% TOTAL: 5.2% user + 7.5% kernel + 0.4% iowait + 0.2% softirq
+E/ActivityManager(  798): CPU usage from 4312ms to 4843ms later:
+E/ActivityManager(  798):   7.5% 798/system_server: 1.8% user + 5.6% kernel / faults: 1 minor
+E/ActivityManager(  798):     5.6% 830/ActivityManager: 1.8% user + 3.7% kernel
+E/ActivityManager(  798):   1.5% 2823/com.android.settings: 1.5% user + 0% kernel
+E/ActivityManager(  798):     1.5% 2823/ndroid.settings: 1.5% user + 0% kernel
+E/ActivityManager(  798):  +0% 20710/workqueue_trust: 0% user + 0% kernel
+E/ActivityManager(  798): 1.8% TOTAL: 0.6% user + 1.2% kernel
+I/ActivityManager(  798): Killing 20150:com.example.listener/u0a78 (adj 0): background ANR
+W/ActivityManager(  798): Canceling start item Intent { cmp=com.example.listener/.NetWorkService } in service ComponentInfo{com.example.listener/com.example.listener.NetWorkService}
+W/ActivityManager(  798): Scheduling restart of crashed service com.example.listener/.NetWorkService in 1000ms
+I/ActivityManager(  798): Killing 6397:com.google.android.gms.unstable/u0a9 (adj 15): empty for 1800s
+I/ActivityManager(  798): Killing 31899:com.android.musicfx/u0a15 (adj 15): empty for 1801s
+I/ActivityManager(  798): Killing 2745:android.process.acore/u0a3 (adj 12): empty for 1809s
+I/ActivityManager(  798): Killing 2674:com.google.android.dialer/u0a10 (adj 12): depends on provider com.android.providers.contacts/.ContactsProvider2 in dying proc android.process.acore
+I/ActivityManager(  798): Killing 8520:com.google.android.talk/u0a52 (adj 12): depends on provider com.android.providers.contacts/.ContactsProvider2 in dying proc android.process.acore
+I/ActivityManager(  798): Start proc com.android.providers.calendar for broadcast com.android.providers.calendar/.CalendarReceiver: pid=21208 uid=10001 gids={50001, 3003, 1028, 1015}
+I/ActivityManager(  798): Start proc com.google.android.calendar for broadcast com.google.android.calendar/com.android.calendar.alerts.AlertReceiver: pid=21251 uid=10031 gids={50031, 3003}
+I/ActivityManager(  798): Killing 12369:com.android.systemui:screenshot/u0a20 (adj 15): empty for 2114s
+I/ActivityManager(  798): Killing 31684:com.google.android.partnersetup/u0a13 (adj 15): empty for 1978s
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.listener/.Monitor (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): Start proc com.example.listener for activity com.example.listener/.Monitor: pid=21752 uid=10078 gids={50078}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): Activity pause timeout for ActivityRecord{11cca5bc u0 com.example.listener/.Monitor t29}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity (has extras)} from pid 1147 on display 0
+W/ActivityManager(  798): Activity stop timeout for ActivityRecord{11cca5bc u0 com.example.listener/.Monitor t29}
+W/ActivityManager(  798): Timeout executing service: ServiceRecord{26baec4a u0 com.example.listener/.NetWorkService}
+E/ActivityManager(  798): ANR in com.example.listener
+E/ActivityManager(  798): PID: 21752
+E/ActivityManager(  798): Reason: Executing service com.example.listener/.NetWorkService
+E/ActivityManager(  798): Load: 10.57 / 9.28 / 9.22
+E/ActivityManager(  798): CPU usage from 6375ms to 0ms ago:
+E/ActivityManager(  798):   3.2% 184/surfaceflinger: 1% user + 2.1% kernel
+E/ActivityManager(  798):   2.8% 2823/com.android.settings: 1.4% user + 1.4% kernel
+E/ActivityManager(  798):   2.1% 798/system_server: 0.4% user + 1.7% kernel / faults: 13 minor
+E/ActivityManager(  798):   1.2% 1370/mpdecision: 0.1% user + 1% kernel
+E/ActivityManager(  798):   0.7% 187/mediaserver: 0.3% user + 0.4% kernel
+E/ActivityManager(  798):   0.6% 3/ksoftirqd/0: 0% user + 0.6% kernel
+E/ActivityManager(  798):   0.6% 123/dhd_dpc: 0% user + 0.6% kernel
+E/ActivityManager(  798):   0.6% 175/logd: 0.3% user + 0.3% kernel / faults: 30 minor
+E/ActivityManager(  798):   0.3% 1046/com.google.android.gms: 0.1% user + 0.1% kernel / faults: 704 minor
+E/ActivityManager(  798):   0.6% 1147/com.google.android.googlequicksearchbox: 0.3% user + 0.3% kernel / faults: 512 minor
+E/ActivityManager(  798):   0.6% 11798/com.alipay.m.portal: 0.3% user + 0.3% kernel / faults: 55 minor
+E/ActivityManager(  798):   0.4% 194/sensors.qcom: 0.1% user + 0.3% kernel / faults: 1 minor
+E/ActivityManager(  798):   0.4% 203/adbd: 0% user + 0.4% kernel / faults: 28 minor
+E/ActivityManager(  798):   0.1% 7/kworker/u:0H: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.3% 1267/com.google.process.gapps: 0% user + 0.3% kernel / faults: 527 minor
+E/ActivityManager(  798):   0.3% 1795/com.google.android.googlequicksearchbox:search: 0.1% user + 0.1% kernel / faults: 32 minor
+E/ActivityManager(  798):   0% 119/mmcqd/1: 0% user + 0% kernel
+E/ActivityManager(  798):   0% 122/dhd_watchdog_th: 0% user + 0% kernel
+E/ActivityManager(  798):   0.1% 181/netd: 0% user + 0.1% kernel / faults: 12 minor
+E/ActivityManager(  798):   0.1% 882/wpa_supplicant: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 15385/kworker/u:7: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 18120/kworker/u:2: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 21158/kworker/0:0: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0.1% 29202/kworker/0:0H: 0% user + 0.1% kernel
+E/ActivityManager(  798):   0% 29514/kworker/0:2H: 0% user + 0% kernel
+E/ActivityManager(  798): 12% TOTAL: 4.4% user + 8.2% kernel + 0.1% iowait + 0.1% softirq
+E/ActivityManager(  798): CPU usage from 3550ms to 4079ms later with 99% awake:
+E/ActivityManager(  798):   7.2% 798/system_server: 3.6% user + 3.6% kernel
+E/ActivityManager(  798):     9% 830/ActivityManager: 1.8% user + 7.2% kernel
+E/ActivityManager(  798):   1.3% 184/surfaceflinger: 0% user + 1.3% kernel
+E/ActivityManager(  798):     1.3% 389/DispSync: 0% user + 1.3% kernel
+E/ActivityManager(  798):   1.3% 194/sensors.qcom: 1.3% user + 0% kernel
+E/ActivityManager(  798):     1.3% 12650/sensors.qcom: 1.3% user + 0% kernel
+E/ActivityManager(  798):   1.4% 2823/com.android.settings: 1.4% user + 0% kernel
+E/ActivityManager(  798):     1.4% 2823/ndroid.settings: 0% user + 1.4% kernel
+E/ActivityManager(  798):   1.4% 11798/com.alipay.m.portal: 1.4% user + 0% kernel
+E/ActivityManager(  798):   1.4% 15385/kworker/u:7: 0% user + 1.4% kernel
+E/ActivityManager(  798): 6.6% TOTAL: 3.7% user + 1.8% kernel + 0.9% iowait
+I/ActivityManager(  798): Killing 21752:com.example.listener/u0a78 (adj 0): background ANR
+W/ActivityManager(  798): Scheduling restart of crashed service com.example.listener/.NetWorkService in 48946ms
+W/ActivityManager(  798): Force removing ActivityRecord{11cca5bc u0 com.example.listener/.Monitor t29}: app died, no saved state
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.settings/.Settings (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Displayed com.android.settings/.SubSettings: +245ms (total +36s657ms)
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Displayed com.android.settings/.SubSettings: +246ms
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Displayed com.android.settings/.SubSettings: +204ms
+I/ActivityManager(  798): Force stopping com.example.TrafficChangedService appid=10094 user=0: from pid 2823
+I/ActivityManager(  798): START u0 {act=android.intent.action.UNINSTALL_PACKAGE dat=package:com.example.TrafficChangedService cmp=com.android.packageinstaller/.UninstallerActivity (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Start proc com.android.packageinstaller for activity com.android.packageinstaller/.UninstallerActivity: pid=22236 uid=10059 gids={50059, 1028}
+I/ActivityManager(  798): Displayed com.android.packageinstaller/.UninstallerActivity: +216ms
+I/ActivityManager(  798): START u0 {act=android.intent.action.VIEW cmp=com.android.packageinstaller/.UninstallAppProgress (has extras)} from pid 22236 on display 0
+I/ActivityManager(  798): Force stopping com.example.TrafficChangedService appid=10094 user=-1: uninstall pkg
+I/ActivityManager(  798): Force stopping com.example.TrafficChangedService appid=10094 user=0: pkg removed
+I/ActivityManager(  798): Start proc android.process.acore for broadcast com.android.providers.contacts/.PackageIntentReceiver: pid=22298 uid=10003 gids={50003, 3003, 1028, 1015}
+I/ActivityManager(  798): Displayed com.android.packageinstaller/.UninstallAppProgress: +202ms
+I/ActivityManager(  798): Start proc com.android.musicfx for broadcast com.android.musicfx/.Compatibility$Receiver: pid=22363 uid=10015 gids={50015, 3003, 3002}
+I/ActivityManager(  798): Start proc com.android.keychain for broadcast com.android.keychain/.KeyChainBroadcastReceiver: pid=22400 uid=1000 gids={41000, 1028, 1015, 3002, 3001, 3003}
+I/ActivityManager(  798): Start proc com.google.android.gms.wearable for service com.google.android.gms/.wearable.service.WearableControlService: pid=22423 uid=10009 gids={50009, 2001, 3003, 1007, 3006, 1028, 1015, 3002, 3001, 3007}
+I/ActivityManager(  798): Start proc com.android.documentsui for broadcast com.android.documentsui/.PackageReceiver: pid=22464 uid=10037 gids={50037}
+I/ActivityManager(  798): Start proc com.android.externalstorage for content provider com.android.externalstorage/.ExternalStorageProvider: pid=22496 uid=10008 gids={50008, 1028, 1015, 1023}
+I/ActivityManager(  798): Start proc com.google.android.apps.docs for content provider com.google.android.apps.docs/com.google.android.gms.drive.external.StorageBackendContentProvider: pid=22526 uid=10038 gids={50038, 3003, 1028, 1015}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Displayed com.android.settings/.SubSettings: +308ms
+I/ActivityManager(  798): START u0 {act=android.intent.action.UNINSTALL_PACKAGE dat=package:com.example.listener cmp=com.android.packageinstaller/.UninstallerActivity (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Displayed com.android.packageinstaller/.UninstallerActivity: +92ms
+I/ActivityManager(  798): START u0 {act=android.intent.action.VIEW cmp=com.android.packageinstaller/.UninstallAppProgress (has extras)} from pid 22236 on display 0
+I/ActivityManager(  798): Force stopping com.example.listener appid=10078 user=-1: uninstall pkg
+I/ActivityManager(  798):   Force stopping service ServiceRecord{26baec4a u0 com.example.listener/.NetWorkService}
+I/ActivityManager(  798): Force stopping com.example.listener appid=10078 user=0: pkg removed
+I/ActivityManager(  798): Displayed com.android.packageinstaller/.UninstallAppProgress: +222ms
+I/ActivityManager(  798): Delay finish: com.google.android.apps.plus/.service.PackagesMediaMonitor
+I/ActivityManager(  798): Resuming delayed broadcast
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+I/ActivityManager(  798): Killing 30654:com.google.android.youtube/u0a73 (adj 15): empty for 1813s
+I/ActivityManager(  798): Killing 17587:com.google.android.apps.genie.geniewidget/u0a42 (adj 15): empty for 1800s
+I/ActivityManager(  798): Killing 2002:com.nd.assistance/u0a85 (adj 15): empty for 1819s
+I/ActivityManager(  798): Killing 14898:com.google.android.configupdater/u0a35 (adj 15): empty for 1817s
+I/ActivityManager(  798): Start proc com.google.android.talk for broadcast com.google.android.talk/com.google.android.apps.babel.realtimechat.RealTimeChatService$AlarmReceiver: pid=23126 uid=10052 gids={50052, 3003, 1028, 1015, 3002}
+I/ActivityManager(  798): Killing 21208:com.android.providers.calendar/u0a1 (adj 15): empty for 1803s
+I/ActivityManager(  798): Killing 21251:com.google.android.calendar/u0a31 (adj 15): empty for 1807s
+I/ActivityManager(  798): Killing 22526:com.google.android.apps.docs/u0a38 (adj 15): empty for 1810s
+I/ActivityManager(  798): Killing 22496:com.android.externalstorage/u0a8 (adj 15): empty for 1811s
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.GoogleCamera/com.android.camera.CameraActivity bnds=[849,1532][1050,1784] (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): Start proc com.google.android.GoogleCamera for activity com.google.android.GoogleCamera/com.android.camera.CameraActivity: pid=23311 uid=10043 gids={50043, 3003, 1028, 1015}
+I/ActivityManager(  798): Displayed com.google.android.GoogleCamera/com.android.camera.CameraActivity: +835ms
+I/ActivityManager(  798): Start proc com.google.android.apps.genie.geniewidget for broadcast com.google.android.apps.genie.geniewidget/.miniwidget.UpdateReceiver: pid=23436 uid=10042 gids={50042, 3003, 1028, 1015}
+I/ActivityManager(  798): Start proc com.nd.assistance for broadcast com.nd.assistance/.receiver.WifiStateChangeReceiver: pid=23489 uid=10085 gids={50085, 3003, 1028, 1015}
+I/ActivityManager(  798): Killing 22298:android.process.acore/u0a3 (adj 15): empty for 1946s
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{308f2802 u0 com.google.android.apps.genie.geniewidget/.GenieRefreshService}
+I/ActivityManager(  798): Killing 22363:com.android.musicfx/u0a15 (adj 15): empty for 2011s
+I/ActivityManager(  798): Start proc com.google.android.configupdater for broadcast com.google.android.configupdater/.CertPin.CertPinUpdateRequestReceiver: pid=23902 uid=10035 gids={50035, 3003}
+I/ActivityManager(  798): Killing 22423:com.google.android.gms.wearable/u0a9 (adj 15): empty for 2300s
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{14f9cd26 u0 com.android.providers.downloads/.DownloadService}
+W/ActivityManager(  798): Activity pause timeout for ActivityRecord{3c87f654 u0 com.google.android.GoogleCamera/com.android.camera.CameraActivity t30 f}
+I/ActivityManager(  798): Killing 22400:com.android.keychain/1000 (adj 15): empty for 4977s
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.chrome/com.google.android.apps.chrome.Main bnds=[648,1532][849,1784] (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{2272f7d4 u0 com.google.android.apps.genie.geniewidget/.GenieRefreshService}
+I/ActivityManager(  798): Start proc android.process.acore for content provider com.android.providers.contacts/.ContactsProvider2: pid=27126 uid=10003 gids={50003, 3003, 1028, 1015}
+I/ActivityManager(  798): Killing 22464:com.android.documentsui/u0a37 (adj 15): empty for 6763s
+W/ActivityManager(  798): No content provider found for permission revoke: file:///data/local/tmp/BetteryChangedService.apk
+W/ActivityManager(  798): No content provider found for permission revoke: file:///data/local/tmp/BetteryChangedService.apk
+I/ActivityManager(  798): Force stopping com.example.TrafficChangedService appid=10114 user=-1: update pkg
+I/ActivityManager(  798): Start proc com.google.android.partnersetup for broadcast com.google.android.partnersetup/.RlzPingBroadcastReceiver: pid=27223 uid=10013 gids={50013, 3003}
+I/ActivityManager(  798): Start proc com.android.musicfx for broadcast com.android.musicfx/.Compatibility$Receiver: pid=27244 uid=10015 gids={50015, 3003, 3002}
+I/ActivityManager(  798): Killing 22236:com.android.packageinstaller/u0a59 (adj 15): empty for 6785s
+I/ActivityManager(  798): Killing 23902:com.google.android.configupdater/u0a35 (adj 15): empty for 4441s
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.TrafficChangedService/.BatteryMonitor} from pid 27273 on display 0
+I/ActivityManager(  798): Start proc com.example.TrafficChangedService for activity com.example.TrafficChangedService/.BatteryMonitor: pid=27296 uid=10114 gids={50114}
+W/ActivityManager(  798): Launch timeout has expired, giving up wake lock!
+I/ActivityManager(  798): Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw360dp w598dp h335dp 480dpi nrml land finger -keyb/v/h -nav/h s.35}
+I/ActivityManager(  798): Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw360dp w360dp h567dp 480dpi nrml port finger -keyb/v/h -nav/h s.36}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): Activity pause timeout for ActivityRecord{3d81a119 u0 com.example.TrafficChangedService/.BatteryMonitor t31}
+W/ActivityManager(  798): Activity stop timeout for ActivityRecord{3d81a119 u0 com.example.TrafficChangedService/.BatteryMonitor t31}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity (has extras)} from pid 1147 on display 0
+W/ActivityManager(  798): Launch timeout has expired, giving up wake lock!
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+E/ActivityManager(  798): Invalid thumbnail dimensions: 768x768
+W/ActivityManager(  798): Activity pause timeout for ActivityRecord{3f1088ee u0 com.alipay.m.portal/.ui.MainActivity t26}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+E/ActivityManager(  798): Invalid thumbnail dimensions: 768x768
+W/ActivityManager(  798): Activity pause timeout for ActivityRecord{3f1088ee u0 com.alipay.m.portal/.ui.MainActivity t26}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): Activity stop timeout for ActivityRecord{3f1088ee u0 com.alipay.m.portal/.ui.MainActivity t26}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.settings/.Settings (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): Killing 23126:com.google.android.talk/u0a52 (adj 15): empty for 2606s
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Displayed com.android.settings/.SubSettings: +270ms (total +12m49s36ms)
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras)} from pid 2823 on display 0
+I/ActivityManager(  798): Displayed com.android.settings/.SubSettings: +352ms
+I/ActivityManager(  798): Force stopping com.alipay.m.portal appid=10112 user=0: clear data
+I/ActivityManager(  798): Killing 11798:com.alipay.m.portal/u0a112 (adj 9): stop com.alipay.m.portal
+I/ActivityManager(  798):   Force finishing activity ActivityRecord{21f155f5 u0 com.alipay.m.portal/.ui.SplashActivity t26}
+I/ActivityManager(  798):   Force finishing activity ActivityRecord{3f1088ee u0 com.alipay.m.portal/.ui.MainActivity t26}
+I/ActivityManager(  798): Start proc com.android.documentsui for broadcast com.android.documentsui/.PackageReceiver: pid=28662 uid=10037 gids={50037}
+I/ActivityManager(  798): Start proc com.android.externalstorage for content provider com.android.externalstorage/.ExternalStorageProvider: pid=28702 uid=10008 gids={50008, 1028, 1015, 1023}
+I/ActivityManager(  798): Killing 23311:com.google.android.GoogleCamera/u0a43 (adj 15): empty for 2580s
+I/ActivityManager(  798): Start proc com.google.android.apps.docs for content provider com.google.android.apps.docs/com.google.android.gms.drive.external.StorageBackendContentProvider: pid=28747 uid=10038 gids={50038, 3003, 1028, 1015}
+I/ActivityManager(  798): Killing 23489:com.nd.assistance/u0a85 (adj 15): empty for 2155s
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alipay.m.portal/.ui.SplashActivity (has extras)} from pid 1147 on display 0
+I/ActivityManager(  798): Start proc com.alipay.m.portal for activity com.alipay.m.portal/.ui.SplashActivity: pid=28967 uid=10112 gids={50112, 1028, 1015, 3003}
+I/ActivityManager(  798): Displayed com.alipay.m.portal/.ui.SplashActivity: +536ms
+I/ActivityManager(  798): START u0 {flg=0x4040000 cmp=com.alipay.m.portal/.ui.MainActivity (has extras)} from pid 28967 on display 0
+W/ActivityManager(  798): startActivity called from finishing ActivityRecord{2a4e8ea0 u0 com.alipay.m.portal/.ui.SplashActivity t32 f}; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x4040000 cmp=com.alipay.m.portal/.ui.MainActivity (has extras) }
+I/ActivityManager(  798): START u0 {act=com.alipay.m.account.ui.login.LoginFragmentActivity cmp=com.alipay.m.portal/com.alipay.m.account.ui.login.LoginFragmentActivity (has extras)} from pid 28967 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.account.ui.guide.LoginGuideActivity} from pid 28967 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.account.ui.guide.LoginGuideActivity: +467ms (total +1s222ms)
+I/ActivityManager(  798): START u0 {cat=[android.intent.category.DEFAULT] cmp=com.alipay.m.portal/com.alipay.m.account.ui.login.LoginFragmentActivity (has extras)} from pid 28967 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.account.ui.login.LoginFragmentActivity: +149ms
+I/ActivityManager(  798): START u0 {flg=0x40000 cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OrderPlaceActivity (has extras)} from pid 28967 on display 0
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.OperationGuideActivity} from pid 28967 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.cashier.ui.OperationGuideActivity: +253ms (total +591ms)
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.cashier.ui.CashierActivity (has extras)} from pid 28967 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.cashier.ui.CashierActivity: +280ms
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{1242a1ab u0 com.google.android.gms/.playlog.uploader.UploaderService}
+I/ActivityManager(  798): START u0 {cmp=com.alipay.m.portal/com.alipay.m.bill.ui.DetailActivity (has extras)} from pid 28967 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.bill.ui.DetailActivity: +246ms
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 28967 on display 0
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity: +258ms
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 28967 on display 0
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity: +116ms
+I/ActivityManager(  798): START u0 {flg=0x10040000 cmp=com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity (has extras)} from pid 28967 on display 0
+I/ActivityManager(  798): Displayed com.alipay.m.portal/com.alipay.m.h5container.ui.WebviewActivity: +112ms
+I/ActivityManager(  798): Waited long enough for: ServiceRecord{6b1705f u0 com.google.android.gms/.playlog.uploader.UploaderService}
+I/ActivityManager(  798): Start proc com.nd.assistance for broadcast com.nd.assistance/.receiver.WifiStateChangeReceiver: pid=4319 uid=10085 gids={50085, 3003, 1028, 1015}
+I/ActivityManager(  798): Killing 23436:com.google.android.apps.genie.geniewidget/u0a42 (adj 15): empty for 3021s
+I/ActivityManager(  798): Start proc com.google.android.apps.genie.geniewidget for broadcast com.google.android.apps.genie.geniewidget/.miniwidget.UpdateReceiver: pid=5928 uid=10042 gids={50042, 3003, 1028, 1015}
+I/ActivityManager(  798): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL} from pid 798 on display 0
+W/ActivityManager(  798): getTasks: caller 10112 does not hold GET_TASKS; limiting output
+I/ActivityManager(  798): Killing 27223:com.google.android.partnersetup/u0a13 (adj 15): empty for 2655s
