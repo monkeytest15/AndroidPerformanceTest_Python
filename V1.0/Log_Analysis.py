@@ -85,13 +85,17 @@ def Gc_analysis():
 	_gc_used_per = []
 	_gc_total_time = []
 	gc_list = read_log(gc_path)
-	for i in xrange(len(gc_list)):
-		if 'GC_CONCURRENT' in gc_list[i]:
-			freed_index =  gc_list[i].split(' ')[5]
-			_gc_free_list.append(gc_list[i].split(' ')[3])
-			_gc_used_per.append(gc_list[i].split(' ')[4])
-			_gc_total_time.append(gc_list[i].split(' ')[10][-4:])
-#	print _gc_total_time
+	try:
+		for i in xrange(len(gc_list)):
+			if 'GC_CONCURRENT' in gc_list[i]:
+				print gc_list[i].split(' '),i
+				freed_index =  gc_list[i].split(' ').index('freed')
+				_gc_free_list.append(gc_list[i].split(' ')[freed_index+1])
+				_gc_used_per.append(gc_list[i].split(' ')[freed_index+2])
+				_gc_total_time.append(gc_list[i].split(' ')[10][-4:])
+#	print _gc_free_list
+	except IndexError:
+		print "日志文件不完整"
 
 
 
@@ -100,4 +104,4 @@ def Gc_analysis():
 
 
 if __name__=="__main__":
-	cpu_analysis()
+	Gc_analysis()
