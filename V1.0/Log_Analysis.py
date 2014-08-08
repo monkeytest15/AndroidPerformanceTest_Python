@@ -11,7 +11,7 @@ from reportlab.graphics import renderPDF
 cpu_path = "/Users/monkey/Pictures/performance_test_script/App_cpu_13_36_54.txt"
 gc_path = '/Users/monkey/Pictures/performance_test_script/GC_file.txt'
 package_name = 'com.alipay.m.portal'
-
+flow_path ='/Users/monkey/Pictures/performance_test_script/NetWorkFile_13_36_54.txt'
 
 
 def read_log(log_path):
@@ -96,6 +96,18 @@ def Gc_analysis():
 #	print _gc_free_list
 	except IndexError:
 		print "日志文件不完整"
+	return _gc_free_list,_gc_used_per,_gc_total_time
+
+
+def flow_analysis():
+	_flow_list = []
+	data_list = read_log(flow_path)
+	try:
+		for i in xrange(len(data_list)):
+			_flow_list.append(data_list[i].split(' ')[-1:][0][:-4])
+	except IndexError:
+		print "日志不完整"
+	return _flow_list
 
 
 
@@ -104,4 +116,4 @@ def Gc_analysis():
 
 
 if __name__=="__main__":
-	Gc_analysis()
+	flow_analysis()
