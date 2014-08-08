@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+'''
+by monkey
+'''
+
+
 import os, re,sys
 import subprocess
 import time, os, sched,shlex,threading
@@ -14,14 +19,18 @@ package_name = 'com.alipay.m.portal'
 flow_path ='/Users/monkey/Pictures/performance_test_script/NetWorkFile_13_36_54.txt'
 
 
-def read_log(log_path):
-	LogList = []
-	f = open(log_path)
-	s = f.readlines()
-	f.close()
-	for line in s:
-		LogList.append(line)
-	return LogList
+
+class Read_file:
+	def __init__(self):
+		self.LogList = []
+
+	def read_log(self,log_path):
+		f = open(log_path)
+		s = f.readlines()
+		f.close()
+		for line in s:
+			self.LogList.append(line)
+		return self.LogList
 
 def cpu_analysis():
 	_data_list =[]
@@ -36,21 +45,6 @@ def cpu_analysis():
 				if package_name in _noblank_list[k]:
 					_cpudata_list.append(_noblank_list[2])
 	print _cpudata_list
-
-
-def Memory_Vss_analysis():
-	_data_list =[]
-	_Vssdata_list = []
-	cpu_list = read_log(cpu_path)
-	for i in xrange(len(cpu_list)):
-		_data_list.append(cpu_list[i].split(" "))
-	for i in xrange(len(_data_list)):
-		for j in xrange(len(_data_list[i])):
-			_noblank_list = [elem for elem in _data_list[i] if elem != ""]
-			for k in xrange(len(_noblank_list)):
-				if package_name in _noblank_list[k]:
-					_Vssdata_list.append(_noblank_list[5])
-	print _Vssdata_list	
 
 def Memory_Vss_analysis():
 	_data_list =[]
@@ -116,4 +110,6 @@ def flow_analysis():
 
 
 if __name__=="__main__":
-	flow_analysis()
+	cpu_file = Read_file()
+	cpu_list = cpu_file.read_log(cpu_path)
+	print cpu_list
