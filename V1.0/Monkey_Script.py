@@ -11,7 +11,7 @@ from reportlab.graphics import renderPDF
 
 def now_time():
 	localtime = time.asctime( time.localtime(time.time()) )
-	time_array = localtime.split(" ")[4].split(":")
+	time_array = localtime.split(" ")[3].split(":")
 	return time_array[0]+'_'+time_array[1]+"_"+time_array[2]
 
 def run_monkey(param,package_name,count,waittime):
@@ -31,4 +31,4 @@ def run_monkey(param,package_name,count,waittime):
 
 
 if __name__ == '__main__':
-	run_monkey(%s,%s,%d,%d)%(sys.argv[1],sys.argv[2],argv[3],argv[4])
+	run_monkey(sys.argv[1],sys.argv[2],argv[3],argv[4])

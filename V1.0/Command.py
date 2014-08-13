@@ -15,7 +15,8 @@ from reportlab.graphics import renderPDF
 
 def now_time():
 	localtime = time.asctime( time.localtime(time.time()) )
-	time_array = localtime.split(" ")[4].split(":")
+	time_array = localtime.split(" ")[3].split(":")
+	print time_array
 	return time_array[0]+'_'+time_array[1]+"_"+time_array[2]
 
 def WriteLog(waittime,package_name):
@@ -37,7 +38,6 @@ def WriteLog(waittime,package_name):
 	except KeyboardInterrupt:
 		print '报告正在生成'
 		os.system('adb kill-server')
-
 
 if __name__ == '__main__':
 	WriteLog(sys.argv[1],sys.argv[2])
