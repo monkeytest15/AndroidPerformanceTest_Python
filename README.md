@@ -19,7 +19,7 @@ AndroidPermanceTest_Python_V1.0
 
 > 1.增加了Monkey的通用脚本
 > python版本必须是2.x。然后执行的时候如下
-> Monkey Monkey_Script.py <参数1> <参数2> <参数3> <参数4>
+> python Monkey_Script.py <参数1> <参数2> <参数3> <参数4>
 
 > 参数1:要执行的类型，有三种可以选择（分别是Normal，alltouch，other）
 
