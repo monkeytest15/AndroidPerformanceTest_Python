@@ -1,5 +1,6 @@
 AndroidPermanceTest_Python
 ==========================
+Windows小白用户慎用，此脚本目前需要少量的修改才能够用在你的工作中
 环境准备： 
 > 1.本地还是需要有android sdk环境。至少adb能够使用
 > 2.本地需要安装python2.x版本
